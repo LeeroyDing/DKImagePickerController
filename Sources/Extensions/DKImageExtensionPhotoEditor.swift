@@ -6,6 +6,7 @@
 //  Copyright © 2017 ZhangAo. All rights reserved.
 //
 
+import UIKit
 import Foundation
 
 #if canImport(CLImageEditor)
